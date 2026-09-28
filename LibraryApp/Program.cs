@@ -2,8 +2,6 @@
 using System;
 using System.Collections.Generic;
 using LibraryData;
-// Assuming your other namespaces like BookRepository are imported here
-
 namespace LibraryApp
 {
     class Program
@@ -22,7 +20,7 @@ namespace LibraryApp
 
             while (isRunning)
             {
-                Console.WriteLine("\n--- Library Management System ---");
+                Console.WriteLine("\nLibrary Management System");
                 Console.WriteLine("1. Add Book");
                 Console.WriteLine("2. View All Books");
                 Console.WriteLine("3. Add Member");
