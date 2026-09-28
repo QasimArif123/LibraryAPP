@@ -1,0 +1,14 @@
+[
+  {
+    "BookId": 1,
+    "Title": "C# competel course",
+    "Author": "xyz",
+    "Stock": 50
+  },
+  {
+    "BookId": 2,
+    "Title": "c\u002B\u002B for beginner",
+    "Author": "zyx",
+    "Stock": 20
+  }
+]
